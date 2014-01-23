@@ -1,0 +1,9 @@
+Package: com.dpkgdan.threecolumnspringboard
+Name: Three Column SpringBoard
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Gives the SpringBoard a 3-column layout.
+Maintainer: Dan Saba
+Author: Dan Saba
+Section: Tweaks
